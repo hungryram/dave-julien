@@ -2,7 +2,7 @@
 cities = "New York"
 date = ""
 featured = "Featured"
-price = "6,900,000"
+price = "$6,900,000"
 properties = "Co-op"
 short_title = "Central Park View"
 states = "NY"
