@@ -1,27 +1,33 @@
 ---
-company_name: Real Estate Company
+company_name: KW New York City
 social_media:
-  instagram: er
-  twitter: er
-  facebook: er
+  instagram: https://www.instagram.com/kwnewyorkcity
+  twitter: https://twitter.com/davemarvens
+  facebook: https://www.facebook.com/davemarvens.julien
   pinterest: ''
   yelp: ''
-  linkedin: ''
+  linkedin: https://www.linkedin.com/in/dave-marvens-julien-039056135/
   tiktok: ''
+  youtube: ''
 contact_information:
-  phone: 
-  name: John Doe
-  cell: 232-453-3467
-  address: 419 Street Address
-  email: john@realestatecompany.com
-  license: 'BRE #5411555'
-  city: Yorba Linda
-  state: California
-  zip_code: "92882"
+  phone: "(212) 301-1140"
+  name: Dave Marvens Julien
+  cell: "(646) 806-2543"
+  address: 99 Park Ave 10th floor
+  email: dave4ever@kw.com
+  license: ''
+  city: New York
+  state: NY
+  zip_code: "10016"
+  google_page_link: ''
 search_engine_optimization:
-  title_tag: Real Estate Theme
-  meta_description: The only real estate theme you need
+  title_tag: Dave Marven Julien
+  meta_description: Dave’s core values are bringing a good attitude and enthusiasm
+    to everything he undertakes, maintaining a client-centered mindset, striving diligently,
+    working intelligently and getting the job done every time.
   twitter_card:
     twitter_username: ''
   facebook:
     app_id: ''
+  no_index: false
+  keywords: []
