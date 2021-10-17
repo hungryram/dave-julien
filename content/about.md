@@ -1,5 +1,7 @@
 +++
+keywords = []
 meta_description = ""
+no_index = false
 title = "About"
 title_tag = ""
 [menu.main]
@@ -7,6 +9,8 @@ parent = "Resources"
 weight = 3
 
 +++
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+Dave Julien is a hardworking and ambitious individual who takes his work very seriously. He has always had a passion for real estate.
 
-Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+He went to Queensborough Community College for two years to study business administration before moving on to NYREI school in Manhattan where he graduated. His core values in the field of real estate are straightforward: he looks after his clients by providing them with quality customer service which includes paying attention to their needs and answering any questions that they have at all times during the process of looking for an apartment.
+
+His core focus is to help my clients to achieve their real estate goals, to operate only in the best interests of my clients. He understands that clients and customers are his business, and they will be handled and cared for in the same way that he would like to be treated.
