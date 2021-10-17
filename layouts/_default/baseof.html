@@ -51,10 +51,11 @@
                                                 {{ if .Params.contact.cell }}
                                                 <a href="tel:{{ .Params.contact.cell }}" class="uk-button uk-button-primary uk-margin-medium-left uk-text-bold uk-flex uk-flex-middle listing-detail-cta" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}><span uk-icon="icon: receiver" class="uk-margin-small-right"></span> More Info</a>
                                                 {{ else }}
-                                                <a href="tel:{{ $.Site.Data.profile.contact_information.cell }}" class="uk-button uk-button-primary uk-margin-medium-left uk-text-bold uk-flex uk-flex-middle listing-detail-cta" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}><span uk-icon="icon: receiver" class="uk-margin-small-right"></span> More Info</a>
+                                                <a href="tel:{{ $.Site.Data.profile.contact_information.phone }}" class="uk-button uk-button-primary uk-margin-medium-left uk-text-bold uk-flex uk-flex-middle listing-detail-cta" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}><span uk-icon="icon: receiver" class="uk-margin-small-right"></span> More Info</a>
                                                 {{ end }}
                                                 {{ end }}
-                                            {{ end }}
+                                            {{ else }}
+                                            <a href="tel:{{ $.Site.Data.profile.contact_information.phone }}" class="uk-button uk-button-primary uk-margin-medium-left uk-text-bold uk-flex uk-flex-middle listing-detail-cta" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}><span uk-icon="icon: receiver" class="uk-margin-small-right"></span> More Info</a>                                            {{ end }}
                                         </li>
                                     </ul>
                                 </div>

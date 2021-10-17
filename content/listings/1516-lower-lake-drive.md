@@ -19,8 +19,6 @@ lot_size = "4,604"
 mls_number = "435546-hr"
 square_footage = "3,453"
 year_built = "1990"
-[listing_agent]
-listing_agent = "our-team/connor-full.md"
 [photos]
 gallery = ["https://res.cloudinary.com/hungryram19/image/upload/v1628905017/templates/realestate2/40902643JPG_c4wev4.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605403412/templates/realestate2/backgroundlivingroom_fungj5.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605402134/templates/realestate2/40904885JPG_kask6c.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605402134/templates/realestate2/40904885-39JPG_pgrh00.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605402134/templates/realestate2/40904885-38JPG_x65c90.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605402134/templates/realestate2/40904885-37JPG_xjnbhf.jpg", "https://res.cloudinary.com/hungryram19/image/upload/v1605402039/templates/realestate2/40904885-33JPG_fr9yaa.jpg"]
 [search_engine_optimization]
