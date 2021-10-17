@@ -10,7 +10,11 @@ slideshow:
 home_sections:
 - template: text-and-image
   heading: Dave Marvens Julien
-  body: Dave M. Julien has lived in New York for a couple of years. He went to Queensborough Community College for 2 years to study business administration and Nyrei real estate school in Manhattan. His core values in real estate is to bring a good attitude and enthusiasm to all that you undertake. My recipe is straightforward, I look after my clients.
+  body: Dave M. Julien has lived in New York for a couple of years. He went to Queensborough
+    Community College for 2 years to study business administration and Nyrei real
+    estate school in Manhattan. His core values in real estate is to bring a good
+    attitude and enthusiasm to all that you undertake. My recipe is straightforward,
+    I look after my clients.
   button: Read more
   button_link: "/our-team"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1634450116/dave-julien/dave-julien-kw/dave-julien-profile.jpg
@@ -20,8 +24,8 @@ home_sections:
   heading: Exclusive Listings
   body: Our luxury listings in Manhattan
 - template: featured-boxes
-  heading: The Featured Box
-  body: Add in Featured Boxes and link them wherever you need to
+  heading: Featured Communities
+  body: ''
   featured:
   - heading: View Active Listings
     image: https://res.cloudinary.com/hungryram19/image/upload/v1634454056/dave-julien/dave-julien-kw/condo-interior.jpg
@@ -33,9 +37,10 @@ home_sections:
     image: https://res.cloudinary.com/hungryram19/image/upload/v1634454196/dave-julien/dave-julien-kw/luxury-stairs.jpg
     link: "/our-team"
 - template: text-and-contact-form
-  heading: We help you buy or sell your property quickly
-  body: Engage with our professional real estate agents to sell, buy or rent your
-    home. Get emails directly to your inbox and manage the lead as you wish.
+  heading: Providing the best real estate service in New York City
+  body: KWNYC is a full-service, luxury real estate brokerage that represents clients
+    in all types of properties. If you have any questions about buying and selling
+    real estate. Contact our team of professionals.
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1634451650/dave-julien/dave-julien-kw/central-park-ny.jpg
   form:
     heading: Send a message
