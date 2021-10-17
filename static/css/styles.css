@@ -68,7 +68,7 @@ a.uk-button.listing-detail-cta {
 
 a.uk-button.uk-button-primary,
 button.uk-button.uk-button-primary {
-    border-radius: 4px;
+    border-radius: 0px;
 }
 
 [title~=Sold] {
@@ -76,7 +76,7 @@ button.uk-button.uk-button-primary {
   }
 
 .hero-overlay {
-    background: rgba(69 69 69 / 30%);
+    background: rgb(0 0 0 / 41%);
 }
 
 .listing-detail-overlay {
@@ -93,7 +93,7 @@ button.uk-button.uk-button-primary {
     transition: .3s;
 }
 
-div#home-section div.uk-section:nth-child(odd) {
+div#home-section div.uk-section:nth-child(even) {
     background: #f7f8f9;
 }
 
@@ -136,13 +136,23 @@ div.uk-navbar-dropdown {
 
 /* HERO */
 
+
+
 @media screen and (min-width:768px) {
     div.mobile-quicksearch {
         display: none;
     }
+
+    div.hero-text h1 {
+        font-size: 4rem;
+    }
 }
 
 /* WHITE/BLACK LOGO */
+
+.uk-navbar-sticky .white-logo {
+    display: none;
+}
 
 .uk-navbar-sticky .dark-logo {
     display: block;
@@ -151,12 +161,6 @@ div.uk-navbar-dropdown {
 .dark-logo {
     display: none;
 }
-
-div.full-nav-wrapper:hover .dark-logo {
-    display: block;
-}
-
-
 
 /* FORM */
 

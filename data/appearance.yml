@@ -19,18 +19,18 @@ footer:
   important_documents: []
 branding:
   site_title: KW NYC
-  logo: https://res.cloudinary.com/hungryram19/image/upload/v1634448100/dave-julien/dave-julien-kw/kw-nyc-logo_wxrrlp.jpg
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1634449833/dave-julien/dave-julien-kw/kw-nyc.png
   favicon: https://res.cloudinary.com/hungryram19/image/upload/v1634448138/dave-julien/dave-julien-kw/favicon_phasjt.jpg
-  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1634448100/dave-julien/dave-julien-kw/kw-nyc-logo_wxrrlp.jpg
-  logo_width: 120
+  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1634449649/dave-julien/dave-julien-kw/transparent-kwny.png
+  logo_width: 250
 header:
   top_header_color: "#000000"
   header_background_color: "#ffffff"
-  enable_white_text: false
+  enable_white_text: true
   enable_white_text_top: true
-  transparent_background: false
+  transparent_background: true
 pages:
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1628905290/templates/realestate2/kichen_weesqh.jpg
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1634452154/dave-julien/dave-julien-kw/aerial-ny.jpg
 sidebar:
   sidebar:
   - template: side-blog-category
