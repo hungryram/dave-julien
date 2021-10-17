@@ -7,12 +7,6 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Resources"
-weight = 3
-[[menu.main]]
-name = "Buyers"
-weight = 2
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
@@ -20,7 +14,7 @@ weight = 1
 name = "Blog"
 parent = "Resources"
 url = "/blog"
-weight = 3
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

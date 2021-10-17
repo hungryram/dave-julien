@@ -7,6 +7,6 @@ weight = 2
 [menu.main]
 name = "Search Listings"
 parent = "Buyers"
-weight = 1
+weight = 2
 
 +++
