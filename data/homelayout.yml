@@ -27,15 +27,15 @@ home_sections:
   heading: Featured Communities
   body: ''
   featured:
-  - heading: View Active Listings
+  - heading: Exclusive Listings
     image: https://res.cloudinary.com/hungryram19/image/upload/v1634454056/dave-julien/dave-julien-kw/condo-interior.jpg
     link: "/status/active"
-  - heading: Featured Listings
+  - heading: About
     image: https://res.cloudinary.com/hungryram19/image/upload/v1634454112/dave-julien/dave-julien-kw/ny-overview.jpg
-    link: "/featured/featured"
-  - heading: Our Team
+    link: "/about"
+  - heading: Contact
     image: https://res.cloudinary.com/hungryram19/image/upload/v1634454196/dave-julien/dave-julien-kw/luxury-stairs.jpg
-    link: "/our-team"
+    link: "/contact"
 - template: text-and-contact-form
   heading: Providing the best real estate service in New York City
   body: KWNYC is a full-service, luxury real estate brokerage that represents clients
