@@ -4,7 +4,7 @@ footer:
     pages: search.md
     quick_links: []
   footer_background_color: "#000000"
-  background_image: 
+  background_image: ''
   logo: ''
   footer_bio: Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, eveniet!
     Officia repellendus aliquam necessitatibus iure, porro voluptas magnam laboriosam
@@ -16,7 +16,9 @@ footer:
   equal_housing_logo: true
   mls_logo: true
   realtor_logo: true
-  important_documents: []
+  important_documents:
+  - document: https://res.cloudinary.com/hungryram19/image/upload/v1634454263/dave-julien/dave-julien-kw/fairhousingnotice.pdf
+    name_of_document: Fair Housing Notice
 branding:
   site_title: KW NYC
   logo: https://res.cloudinary.com/hungryram19/image/upload/v1634449833/dave-julien/dave-julien-kw/kw-nyc.png
