@@ -44,8 +44,7 @@ home_sections:
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1634451650/dave-julien/dave-julien-kw/central-park-ny.jpg
   form:
     heading: Send a message
-    body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get emails directly to your inbox and manage the lead as you wish.
+    body: Please fill out the form below
   background_color: "#424242"
   enable_white_text: true
 slideshow_settings:
