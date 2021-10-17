@@ -134,6 +134,15 @@ div ul.uk-nav-default>li>a {
     color: #fff!important;
 }
 
+ul.uk-navbar-nav.top-bar li a {
+    text-transform: unset!important;
+}
+
+div.top-navbar ul.uk-navbar-nav>li>a {
+    min-height: 60px;
+    font-weight: 400;
+}
+
 /* HERO */
 
 
