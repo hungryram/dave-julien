@@ -76,6 +76,11 @@ fields:
     config:
       required: false
     label: Cell
+  - name: secondary_number
+    type: text
+    config:
+      required: false
+    label: Secondary Number
   - name: email
     type: text
     config:
