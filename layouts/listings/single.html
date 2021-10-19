@@ -149,6 +149,17 @@
                     </div>
                 </div>
 
+                {{ if .Params.tools.threed_tour_links }}
+                <div class="uk-card uk-card-default uk-card-body uk-margin-small-top">
+                    <h2 class="uk-h4 uk-text-bold">3d Tour Links</h2>
+                    {{ range .Params.tools.threed_tour_links }}
+                      <p><a href="{{ .link }}" target="_blank"><span uk-icon="icon: link"></span> {{ .name }}</a></p>
+                    {{else}}
+                      <p>no files</p>
+                    {{end}}
+                </div>
+                {{ end }}
+
                 <!-- INTERIOR DETAIL -->
                 {{ if .Params.utilities_and_features.interior_details.show_interior_details }}
                 <div class="uk-card uk-card-default uk-margin-small-top uk-card-body">
