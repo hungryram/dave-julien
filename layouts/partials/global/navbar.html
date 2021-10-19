@@ -13,7 +13,19 @@
     .uk-navbar-sticky ul li a svg {
         color: #000!important;
     }
+
+    .second-topnav a {
+        font-size: 13px;
+        line-height: 1.35;
+    }
 </style>
+<div class="second-topnav" style="background:#2e2e2e;padding: 10px;">
+    <nav class="uk-container uk-container-large" uk-navbar>
+        <div class="uk-navbar-right">
+            <a href="https://res.cloudinary.com/hungryram19/image/upload/v1634454263/dave-julien/dave-julien-kw/fairhousingnotice.pdf" class="uk-link-text" style="color:#fff;">Keller Williams NYC is committed to adhering to the guidelines of The New York State Fair Housing Regulations. View the Fair Housing Notice</a>
+        </div>
+    </nav>
+</div>
 <div class="uk-visible@s" uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky uk-dark; cls-inactive: uk-navbar-transparent; top: 200" {{ if $navColor.transparent_background }}{{ else }}style="background: {{ $navColor.header_background_color }};"{{ end }}>
     <div class="top-navbar" style="background:{{ if $navColor.top_header_color }}{{ $navColor.top_header_color }}{{ else }}transparent{{ end }}">
         <nav class="uk-container uk-container-large" uk-navbar>
