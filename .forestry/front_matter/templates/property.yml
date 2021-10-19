@@ -148,6 +148,7 @@ fields:
     - Single Family
     - Time Share
     - Vacation Home
+    - Apartment
     source:
       type: simple
       section: 
