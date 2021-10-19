@@ -52,6 +52,15 @@
                     <div class="footer-text">
                         <h2 class="{{ if $footer.enable_black_text }}uk-dark{{ else }}uk-white{{ end }} uk-h5 uk-text-bold">About</h2>
                         <p class="{{ if $footer.enable_black_text }}uk-dark{{ else }}uk-white{{ end }}">{{ .Site.Data.appearance.footer.footer_bio }}</p>
+                        <h3 class="uk-white">Subscribe to the newsletter</h3>
+                        <form name="Newsletter" method="POST" netlify-honeypot="bot-field" data-netlify="true" class="uk-grid-small" uk-grid action="/thank-you">
+                            <div class="uk-width-1-1">
+                                <input class="uk-input" type="text" placeholder="Email" name="Email" required>
+                            </div>
+                            <div class="uk-width-1-1">
+                                <button class="uk-button uk-button-primary uk-width-1-1" style="background:transparent;border:1px solid white;">Submit</button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
