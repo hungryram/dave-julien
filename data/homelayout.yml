@@ -17,9 +17,9 @@ home_sections:
     I look after my clients.
   button: Read more
   button_link: "/about"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1634745103/dave-julien/dave-julien-kw/dave-julien_ozgqvo.jpg
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1634745261/dave-julien/dave-julien-kw/dave-marvens-julien_dtbv8o.jpg
   image_alt_tag: Dave Marvens Julien
-  image_width: 400
+  image_width: '450'
 - template: active-listings
   heading: Exclusive Listings
   body: Our luxury listings in Manhattan
