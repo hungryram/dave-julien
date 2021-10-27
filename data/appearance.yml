@@ -6,9 +6,10 @@ footer:
   footer_background_color: "#000000"
   background_image: ''
   logo: ''
-  footer_bio: KWNYC is a full-service, luxury real estate brokerage that represents clients in all types of properties.
+  footer_bio: 'Helping buyers and sellers in New York City with real estate. '
   enable_black_text: false
   disclaimer: |-
+    Keller Williams NYC is a licensed real estate broker and abides by Equal Housing Opportunity laws. All material presented herein is intended for informational purposes only. Information is compiled from sources deemed reliable but is subject to errors, omissions, changes in price, condition, sale, or withdraw without notice. No statement is made as to accuracy of any description. All measurements and square footages are approximate. Exact dimensions can be obtained by retaining the services of an architect or engineer. This is not intended to solicit property already listed. Each office is independently owned and operated.
     The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website.
     While we strive to keep information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links or other items contained within these materials. Plead visit our full disclaimer for more information.
   equal_housing_logo: true
