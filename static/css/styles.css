@@ -419,3 +419,7 @@ footer.footer a:hover {
     background-color: rgb(34, 34, 34);
     transition: .3s ease;
 }
+
+.uk-list>*>ul, .uk-list>:nth-child(n+2) {
+    margin-top: 0;
+}
