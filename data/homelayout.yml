@@ -17,7 +17,7 @@ home_sections:
     I look after my clients.
   button: Read more
   button_link: "/about"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1635454550/dave-julien/dave-julien-kw/IMG_8554_ogyolv.jpg
+  image: /assets/IMG-20221021-WA0001.jpg
   image_alt_tag: Dave Marvens Julien
   image_width: '450'
 - template: active-listings
